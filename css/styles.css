@@ -1,0 +1,27 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+body {
+font-family: 'Gaegu', cursive;
+}
+
+.pencils {
+  position: static;
+  margin: 0;
+  background-image: url('../img/pencils2.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: cover;
+  padding: 300px 150px;
+}
+
+.intro {
+  font-size: 60px;
+  text-align: center;
+  display: flex;
+}
+
+.btn {
+  font-size: 20px;
+  margin-left: 160px;
+}
